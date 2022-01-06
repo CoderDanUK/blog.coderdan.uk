@@ -39,7 +39,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     home_mode = ""                    # post or other
     dateFormatToUse = ""              # set date format, default "2 January 2006"
 
-    avatar = "/images/me/avatar.jpeg" #comment it to use gravatar
+    avatar = "/images/me/avatar.jpg" #comment it to use gravatar
     socialShare = true
 
     description = "" # site description
