@@ -49,6 +49,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
 [params.social]
     GitHub = "CoderDanUK"
+    Twitter = "CoderDan"
 
 [params.share]
 Twitter = true
